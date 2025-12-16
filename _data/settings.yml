@@ -34,11 +34,8 @@ author:
   author__avatar: '/images/01-1.jpg'
 
 social:
-- {icon: "fa-brands fa-x-twitter", link: "https://twitter.com"}
-- {icon: "fa-brands fa-square-facebook", link: "https://facebook.com"}
-- {icon: "fa-brands fa-instagram", link: "https://instagram.com"}
-- {icon: "fa-brands fa-pinterest", link: "https://pinterest.com"}
-- {icon: "fa-brands fa-github", link: "https://github.com"}
+- {icon: "fa-brands fa-github", link: "https://github.com/CloudSteph"}
+- {icon: "fa-brands fa-linkedIn", link: "https://www.linkedin.com/in/stephanie-l-30ba7a242/"}
 
 # Example of adding a new link to the footer - {icon: "fa-brands fa-dribbble", link: "https://dribbble.com"}
 # Other icons can be found at https://fontawesome.com/icons
@@ -49,22 +46,22 @@ social:
 hero:
   hero__title: I'm Stephanie. I'm an iOS Software Engineer and have a passion for Tech, Creativity, & Product.
   hero__description: I’ve published three iOS apps currently available on the App Store, with more project ideas to come. Beyond implementation, I enjoy exploring the ‘why’ behind features — understanding users, shaping product impact, and building solutions that make everyday experiences simpler and more intuitive.
-  hero__image: '/images/Emoji.jpg'
+  hero__image: '/images/Emoji.jpeg'
 
 
 #-------------------------------
 # Newsletter
-mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
-mailchimp__identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
-mailchimp__input__text: Your email address...
-mailchimp__button__text: Get updates
+# mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To disable the form, leave the field blank.
+# mailchimp__identifier: gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp # Add your MailChimp form identifier. For example - gmail.us21.list-manage.com/subscribe/post?u=8aeb9c31a5c97a3a5f9ff2740&amp;id=0e31fd7793&amp
+# mailchimp__input__text: Your email address...
+# mailchimp__button__text: Get updates
 
 
 #-------------------------------
 # Projects Settings
 projects__settings:
   projects__title: Latest works
-  projects__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+  projects__description: Projects inspired by personal experiences, built to create meaningful impact for others with the same experiences.
 
 
 #-------------------------------
@@ -106,23 +103,25 @@ projects__settings:
 
 #-------------------------------
 # Blog Section
-blog__settings:
-  blog__title: Recent Posts
-  blog__description:
+# blog__settings:
+#   blog__title: Recent Posts
+#   blog__description:
 
 
 #-------------------------------
 # Gallery Footer Settings
 gallery:
   gallery__images:
-    - alt: 'Rest'
-      url: '/images/gallery-1.jpg'
-    - alt: 'Lifestyle'
-      url: '/images/gallery-2.jpg'
-    - alt: 'Hobby'
-      url: '/images/gallery-3.jpg'
-    - alt: 'Notes'
-      url: '/images/gallery-4.jpg'
+    - alt: 'FinLu'
+      url: '/images/FinLu-gallery.jpeg'
+    - alt: 'ConvrtMe'
+      url: '/images/ConvrtMe-gallery.jpeg'
+    - alt: 'LeftoverMate'
+      url: '/images/LeftoverMate-gallery.jpeg'
+    - alt: 'ConvertMe'
+      url: '/images/ConvertMe-gallery.jpeg'
+    - alt: 'Noted'
+      url: '/images/Noted-gallery.jpeg'
 
 
 #-------------------------------
@@ -133,21 +132,21 @@ footer_menu__settings:
       url: '/'
     - title: 'Projects'
       url: '/projects/'
-    - title: 'Blog'
-      url: '/blog/'
+    # - title: 'Blog'
+    #   url: '/blog/'
     - url: '/about/'
       title: 'About'
-    - url: '/contact/'
-      title: 'Contact'
-    - url: '/elements/'
-      title: 'Elements'
+    # - url: '/contact/'
+    #   title: 'Contact'
+    # - url: '/elements/'
+    #   title: 'Elements'
 
 
 #-------------------------------
 # Contact Settings
-contact:
-  form_id: your@email.com # Add your form_id
-  description: Hilton comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
+# contact:
+#   form_id: your@email.com # Add your form_id
+#   description: Hilton comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want. # Add a description of your form
 
 # NOTE
 # Hilton theme comes with a contact form built-in. You can use this form with Formspree (https://formspree.io/) service and get up to 50 submissions for free. Also, you can easily switch to another service if you want.
@@ -155,7 +154,7 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
+# disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------
