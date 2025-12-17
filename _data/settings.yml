@@ -31,7 +31,7 @@ menu__settings:
 author:
   author__name: Stephanie Liew
   author__bio: I’ve published three iOS apps currently available on the App Store, with more project ideas to come. Beyond implementation, I enjoy exploring the ‘why’ behind features — understanding users, shaping product impact, and building solutions that make everyday experiences simpler and more intuitive.
-  author__avatar: '/images/Emoji.jpeg'
+  author__avatar: '/images/Memoji.png'
 
 social:
 - {icon: "fa-brands fa-github", link: "https://github.com/CloudSteph"}
@@ -46,7 +46,7 @@ social:
 hero:
   hero__title: Hi, I'm Stephanie! An iOS Software Engineer with a passion for Tech, Creativity, & Product.
   hero__description: I’ve published three iOS apps currently available on the App Store, with more project ideas to come. Beyond implementation, I enjoy exploring the ‘why’ behind features — understanding users, shaping product impact, and building solutions that make everyday experiences simpler and more intuitive.
-  hero__image: '/images/Emoji.jpeg'
+  hero__image: '/images/Memoji.png'
 
 
 #-------------------------------
