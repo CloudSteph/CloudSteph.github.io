@@ -66,8 +66,8 @@ projects__settings:
   projects__description: Projects inspired by personal experiences, built to create meaningful impact for others with the same experiences.
 
 
-# -------------------------------
-# Testimonials Section
+# #-------------------------------
+# # Testimonials Section
 # testimonial__title: What clients say
 # testimonial__description:
 
@@ -103,8 +103,8 @@ projects__settings:
 #     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
 
-# -------------------------------
-# Blog Section
+# #-------------------------------
+# # Blog Section
 # blog__settings:
 #   blog__title: Recent Posts
 #   blog__description:
