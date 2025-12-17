@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: CloudSteph
-logo: '/images/Emoji.jpeg'
+logo: '/images/Memoji.png'
 description: Portfolio
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
@@ -14,16 +14,18 @@ menu__settings:
       url: '/'
     - title: 'Projects'
       url: '/projects/'
-    - title: 'Blog'
-      url: '/blog/'
-    - title: 'Pages'
-      submenu:
-      - url: '/about/'
-        title: 'About'
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+    - title: 'About'
+      url: '/about/'
+    # - title: 'Blog'
+    #   url: '/blog/'
+    # - title: 'Pages'
+      # submenu:
+      # - url: '/about/'
+      #   title: 'About'
+      # - url: '/contact/'
+      #   title: 'Contact'
+      # - url: '/elements/'
+      #   title: 'Elements'
 
 
 #-------------------------------
