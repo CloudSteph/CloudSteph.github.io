@@ -6,7 +6,7 @@ permalink: /about/
 
 Hey! My name is Stephanie, and I’m a product-minded iOS developer based in New York, passionate about building and launching thoughtful apps and features. Through hands-on app development and real-world work experience, I’ve also developed a strong interest in Product. Beyond implementation, I like to understand user needs, define problems, and build solutions that create real impact.
 
-My journey into iOS development is driven by a passion for creating seamless, meaningful user experiences and connecting people with products across social media, tech, food, retail, and health spaces. I’ve had the opportunity to contribute to features that made a tangible difference in improving users' experience.
+My journey into iOS development is driven by a passion for wanting to create seamless, meaningful user experiences and connecting people with products across social media, tech, food, retail, and health spaces. I’ve had the opportunity to contribute to features that made a tangible difference in improving users' experience.
 
 I’m eager to continue growing my skill set, learning from cross-functional teams, and collaborating closely with ui/ux, engineers, and stakeholders to drive successful outcomes especially on projects where I can contribute to bringing features from idea to launch. 
 
